@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/task_28.9.1.dir/Main.cpp.o -o task_28.9.1 

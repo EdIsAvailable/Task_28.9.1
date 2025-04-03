@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/server/task_28.9.1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/task_28.9.1.dir/Main.cpp.o -c /home/server/task_28.9.1/Main.cpp",
+  "file": "/home/server/task_28.9.1/Main.cpp",
+  "output": "CMakeFiles/task_28.9.1.dir/Main.cpp.o"
+}
+]
